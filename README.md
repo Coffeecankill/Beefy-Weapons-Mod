@@ -1,1 +1,1 @@
-All sounds called with GunsGlobalItem.cs
+All sounds called with GunsGlobalItem.cs inside sounds folder
