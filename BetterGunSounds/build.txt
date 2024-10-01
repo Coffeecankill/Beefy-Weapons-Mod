@@ -1,0 +1,3 @@
+displayName = Beefier Weapon Sounds
+author = Coffee009
+version = 1.0
